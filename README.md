@@ -1,7 +1,7 @@
 Hi 👋 My name is Zagham Nadeem
 ==============================
 
-Web Developer and Designer
+Ionic Developer and Designer
 --------------------------
 
 I am professional Ionic & Angular developer and working on Ionic modules since 2019. My motive is to help the newbies learn and solve their programming solutions. I have done my BSCS Degree from GCUF. Now i am a part of Learn2Earn Professional Institute of Computer Sciences as a senior developer.
