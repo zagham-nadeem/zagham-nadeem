@@ -8,7 +8,7 @@ I am professional Ionic & Angular developer and working on Ionic modules since 2
 
 * 🌍  I'm based in Pakpattan, Punjab, Pakistan
 * 🖥️  See my portfolio at [The Devils Dev](http://thedevils.me)
-* ✉️  You can contact me at [bit.bytes@outlook.com](mailto:bit.bytes@outlook.com)
+* ✉️  You can contact me at [contact@learn2earnn.com](mailto:contact@learn2earnn.com)
 * 🧠  I'm learning Ionic Angular, PHP, REST API's, SQL, HTML, CSS, SCSS, Javascript
 * 🤝  I'm open to collaborating on Ionic Angular
 * ⚡  Alhamdulillah i am a Muslim
