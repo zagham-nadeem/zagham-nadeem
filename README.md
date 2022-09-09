@@ -13,7 +13,7 @@ I am professional Ionic & Angular developer and working on Ionic modules since 2
 * 🤝  I'm open to collaborating on Ionic Angular
 * ⚡  Alhamdulillah i am a Muslim
 
-<a href="https://www.twitter.com/ioniccapacitor" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/itszagham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ioniccapacitor?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a><a href="https://www.github.com/zagham-nadeem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
