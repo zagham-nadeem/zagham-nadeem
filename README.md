@@ -49,6 +49,7 @@ src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for
 ### Badges
 
 <b>My GitHub Stats</b>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <a href="http://www.github.com/zagham-nadeem"><img src="https://github-readme-stats.vercel.app/api?username=zagham-nadeem&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="zagham-nadeem's GitHub stats" /></a>
 
