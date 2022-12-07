@@ -8,7 +8,7 @@ I am professional Ionic & Angular developer and working on Ionic modules since 2
 
 * 🌍  I'm based in Pakpattan, Punjab, Pakistan
 * 🖥️  See my portfolio at [The Devils Dev](http://thedevils.me)
-* ✉️  You can contact me at [zagham@learn2earnn.com](mailto:zagham@learn2earnn.com)
+* ✉️  You can contact me at [zagham@learn2earnn.com](mailto:zagham@learn2earnn.com)   <a style="float:right" href="https://app.daily.dev/zagham"><img src="https://api.daily.dev/devcards/23d8fd8f62a3479cae5633c101c06b18.png?r=l77" width="400" alt="Zagham Nadeem's Dev Card"/></a>
 * 🧠  I'm learning Ionic Angular, PHP, REST API's, SQL, HTML, CSS, SCSS, Javascript
 * 🤝  I'm open to collaborating on Ionic Angular
 * ⚡  Alhamdulillah i am a Muslim
@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for
 <p align="left"> <a href="https://www.facebook.com/mezagham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zagham-nadeem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://thedevils.me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ioniccapacitor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/iamzagham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ioniccapacitor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<a href="https://app.daily.dev/zagham"><img src="https://api.daily.dev/devcards/23d8fd8f62a3479cae5633c101c06b18.png?r=l77" width="400" alt="Zagham Nadeem's Dev Card"/></a>
+
 
 <b>My GitHub Stats</b>
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
