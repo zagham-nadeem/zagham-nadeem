@@ -17,9 +17,9 @@ I am professional Ionic & Angular developer and working on Ionic modules since 2
 src="https://img.shields.io/twitter/follow/itszagham?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a><a href="https://www.github.com/zagham-nadeem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zagham-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-ch" /> </p>
-### Dev Card
-<a href="https://app.daily.dev/zagham"><img src="https://api.daily.dev/devcards/23d8fd8f62a3479cae5633c101c06b18.png?r=l77" width="400" alt="Zagham Nadeem's Dev Card"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zagham-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="zagham-nadeem" /> </p>
+
+
 ### Skills
 
 <p align="left">
@@ -48,6 +48,7 @@ src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for
 <p align="left"> <a href="https://www.facebook.com/mezagham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/zagham-nadeem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://thedevils.me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ioniccapacitor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/iamzagham" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ioniccapacitor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<a href="https://app.daily.dev/zagham"><img src="https://api.daily.dev/devcards/23d8fd8f62a3479cae5633c101c06b18.png?r=l77" width="400" alt="Zagham Nadeem's Dev Card"/></a>
 
 <b>My GitHub Stats</b>
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
