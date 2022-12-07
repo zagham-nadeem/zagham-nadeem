@@ -18,7 +18,8 @@ src="https://img.shields.io/twitter/follow/itszagham?logo=twitter&style=for-the-
 /></a><a href="https://www.github.com/zagham-nadeem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zagham-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-ch" /> </p>
-
+### Dev Card
+<a href="https://app.daily.dev/zagham"><img src="https://api.daily.dev/devcards/23d8fd8f62a3479cae5633c101c06b18.png?r=l77" width="400" alt="Zagham Nadeem's Dev Card"/></a>
 ### Skills
 
 <p align="left">
