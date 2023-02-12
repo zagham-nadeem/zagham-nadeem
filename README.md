@@ -1,10 +1,18 @@
 Hi 👋 My name is Zagham Nadeem
 ==============================
 
-Ionic Developer and Designer
+Full Stack Developer (Ionic + Angular)
 --------------------------
 
-I am professional Ionic & Angular developer and working on Ionic modules since 2019. My motive is to help the newbies learn and solve their programming solutions. I have done my BSCS Degree from GCUF. Now i am a part of Learn2Earn Professional Institute of Computer Sciences as a senior developer.
+Hi, my name is Zagham Nadeem, and I am a passionate mobile application developer with a focus on cross-platform development using Ionic framework. I have been in the industry for 3 years, delivering high-quality and scalable applications for clients across various industries.
+
+I fell in love with the power of technology and its ability to simplify everyday tasks. My passion for technology led me to pursue a career in software development, where I found a natural interest in mobile application development. I discovered Ionic and was immediately drawn to its ability to create stunning, high-performing apps for both iOS and Android using a single codebase.
+
+I am skilled in Angular, TypeScript, and HTML/CSS, and have a deep understanding of the Ionic framework and its underlying technologies. I have worked on a wide range of projects, from simple utility apps to complex enterprise solutions, and have consistently delivered projects on time and within budget.
+
+In my free time, I enjoy staying up to date with the latest developments in mobile technology and sharing my knowledge with the development community through writing articles and speaking at events. I am always eager to take on new challenges and continuously improve my skills to provide the best possible solutions for my clients.
+
+If you're looking for a talented Ionic developer to bring your mobile app vision to life, feel free to reach out to me. I would love to hear more about your project and see how I can help.
 
 * 🌍  I'm based in Pakpattan, Punjab, Pakistan
 * 🖥️  See my portfolio at [The Devils Dev](http://thedevils.me)
