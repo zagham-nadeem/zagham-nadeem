@@ -15,15 +15,15 @@ In my free time, I enjoy staying up to date with the latest developments in mobi
 If you're looking for a talented Ionic developer to bring your mobile app vision to life, feel free to reach out to me. I would love to hear more about your project and see how I can help.
 
 * 🌍  I'm based in Pakpattan, Punjab, Pakistan
-* 🖥️  See my portfolio at [The Devils Dev](http://thedevils.me)
-* ✉️  You can contact me at [zagham@learn2earnn.com](mailto:zagham@learn2earnn.com) 
+* 🖥️  See my Blog at [Ionic Notes](http://ionicnotes.com)
+* ✉️  You can contact me at [hi@ionicnotes.com](mailto:hi@ionicnotes.com) 
 * 🧠  I'm learning Ionic Angular, PHP, REST API's, SQL, HTML, CSS, SCSS, Javascript
 * 🤝  I'm open to collaborating on Ionic Angular
 * ⚡  Alhamdulillah i am a Muslim
 
 
 <br>
-![Snake animation](https://github.com/zagham-nadeem/thezaghamnadeem/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zagham-nadeem/zagham-nadeem/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 
