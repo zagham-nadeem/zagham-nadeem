@@ -21,6 +21,13 @@ If you're looking for a talented Ionic developer to bring your mobile app vision
 * 🤝  I'm open to collaborating on Ionic Angular
 * ⚡  Alhamdulillah i am a Muslim
 
+
+<br>
+![Snake animation](https://github.com/zagham-nadeem/thezaghamnadeem/blob/output/github-contribution-grid-snake.svg)
+<br>
+
+
+
 <a href="https://www.twitter.com/itszagham" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/itszagham?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a><a href="https://www.github.com/zagham-nadeem" target="_blank" rel="noreferrer"><img
