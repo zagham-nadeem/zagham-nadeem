@@ -22,9 +22,8 @@ If you're looking for a talented Ionic developer to bring your mobile app vision
 * ⚡  Alhamdulillah i am a Muslim
 
 
-<br>
+
 ![snake gif](https://github.com/zagham-nadeem/zagham-nadeem/blob/output/github-contribution-grid-snake.gif)
-<br>
 
 
 
