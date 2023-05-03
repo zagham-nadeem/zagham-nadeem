@@ -23,7 +23,7 @@ If you're looking for a talented Ionic developer to bring your mobile app vision
 
 
 <br>
-![Snake animation](https://github.com/zagham-nadeem/zagham-nadeem/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/zagham-nadeem/zagham-nadeem/blob/output/github-contribution-grid-snake.gif)
 <br>
 
 
