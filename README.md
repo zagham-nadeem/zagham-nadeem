@@ -33,6 +33,8 @@ src="https://img.shields.io/twitter/follow/itszagham?logo=twitter&style=for-the-
 src="https://img.shields.io/github/followers/zagham-nadeem?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zagham-nadeem&label=Profile%20views&color=0e75b6&style=flat" alt="zagham-nadeem" /> </p>
 
+## Buy Me a Coffee
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zaghamnadeem)
 
 ### Skills
 
