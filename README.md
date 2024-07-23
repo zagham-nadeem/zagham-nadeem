@@ -7,7 +7,7 @@ I'm a passionate mobile application developer with 5 years of experience in cros
 ### About Me
 - 🌍 Active in the Ionic, Angular, React, and TypeScript communities.
 - 🖥️ Blog: [Ionic Notes](http://ionicnotes.com)
-- ✉️ Contact: [contact](mailto:zagham116@gmail.com)
+- ✉️ Contact: [contact](mailto:dev.zagham@gmail.com)
 - 🧠 Learning: React Native, Ionic, Angular, PHP, REST APIs, SQL, HTML, CSS, SCSS, JavaScript
 - 🤝 Open to collaborating on React Native, Ionic, and Angular projects
 
