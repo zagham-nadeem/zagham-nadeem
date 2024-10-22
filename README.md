@@ -20,7 +20,7 @@ I'm always eager to take on new challenges and bring your mobile app vision to l
 
 ### Skills
 
-![[My Skills](https://skillicons.dev/icons?i=angular,vue,react,aws,gcp,typescript,html,css,sass,firebase,jest,md,tailwind,vercel,vite,wordpress,vscode,androidstudio,supabase)](https://alazizsoftwares.com)
+![My Skills](https://skillicons.dev/icons?i=angular,vue,react,aws,gcp,typescript,html,css,sass,firebase,jest,md,tailwind,vercel,vite,wordpress,vscode,androidstudio,supabase)
 
 ## Socials
 
@@ -28,7 +28,7 @@ I'm always eager to take on new challenges and bring your mobile app vision to l
 [![Twitter](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zagham-dev/)
 
 ## Buy Me a Coffee
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zaghamnadeem)
+[["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)(https://www.buymeacoffee.com/zaghamnadeem)]
 
 ---
 
