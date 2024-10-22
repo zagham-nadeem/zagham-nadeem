@@ -20,7 +20,7 @@ I'm always eager to take on new challenges and bring your mobile app vision to l
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=angular,vue,react,aws,gcp,typescript,html,css,sass,firebase,jest,md,tailwind,vercel,vite,wordpress,vscode)
+![My Skills](https://skillicons.dev/icons?i=angular,vue,react,aws,gcp,typescript,html,css,sass,firebase,jest,md,tailwind,vercel,vite,wordpress,vscode,android,supabase)
 
 ## Socials
 
