@@ -28,7 +28,7 @@ I'm always excited to tackle new challenges and help bring your mobile app ideas
 
 ### 🌍 Socials
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ionicnotes) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zagham-dev/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ionicnotes) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/zaghamnadeem/)
 
 ---
 
