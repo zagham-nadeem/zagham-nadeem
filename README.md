@@ -28,10 +28,11 @@ I'm always excited to tackle new challenges and help bring your mobile app ideas
 
 ### 🌍 Socials
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ionicnotes) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/zaghamnadeem/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ionicnotes) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/zaghamnadeem/)
 
 ---
-
+## Work With Me
+[![Hire on Contra](https://me7674.npkn.net/contra-badge/)](https://contra.com/alazizsoftwaresolutions_j6pg69ve?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link)
 ## ☕ Support My Work
 
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/devzagham)
