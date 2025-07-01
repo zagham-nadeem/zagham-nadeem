@@ -8,7 +8,7 @@ I'm a passionate mobile app developer with **5+ years of experience** in cross-p
 
 ### 🚀 About Me
 - 🌍 Active contributor to **Ionic**, **Angular**, **React**, and **TypeScript** communities.
-- 🖥️ Check out my blog: [Ionic Notes](http://ionicnotes.com) – where I share my learnings and insights.
+- 🖥️ Check out my Portfolio: [Zagham](http://zagham.dev) – where I share my learnings and insights.
 - ✉️ Reach me at: [dev.zagham@gmail.com](mailto:dev.zagham@gmail.com)
 - 🧠 Currently mastering: **React Native**, **Ionic**, **Angular**, **PHP**, **REST APIs**, **SQL**, **HTML**, **CSS**, **SCSS**, **JavaScript**
 - 🤝 Open to collaborations on exciting **React Native**, **Ionic**, and **Angular** projects.
